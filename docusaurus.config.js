@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs-kqht.github.io',
+  url: 'https://nd-luan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -28,8 +28,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ND-Luan', // Usually your GitHub org/user name.
-  projectName: 'docs-kqht.github.io', // Usually your repo name.
-  deploymentBranch: 'build',
+  projectName: 'docs-kqht', // Usually your repo name.
+  deploymentBranch: 'main',
   trailingSlash: false,
   
   onBrokenLinks: 'throw',
