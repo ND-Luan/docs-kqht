@@ -9,7 +9,7 @@ sidebar_position: 5
 ### I. Topic của giáo viên
 ![Topic của GV](/img/giao-vien/topic/topic-cua-GV.png)  
 __Chức năng:__ 
-1. <img src="/img/giao-vien/topic/chon-mon.png" alt="Chọn môn" width="100" />: Tìm kiếm danh sách topic theo môn  
+1. <img src="/img/chung/chon-mon.png" alt="Chọn môn" width="100" />: Tìm kiếm danh sách topic theo môn  
 2. <img src="/img/giao-vien/topic/chon-khoi.png" alt="Chọn khối" width="80" />: Tìm kiếm danh sách topic theo khối
 3. <img src="/img/chung/lam-moi.png" alt="Làm mới" width="80" />: Tải lại danh sách
 4. <img src="/img/chung/tim-kiem.png" alt="Tìm kiếm" width="150" />: Tìm kiếm topic theo mã topic và tên topic 

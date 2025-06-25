@@ -9,7 +9,7 @@ sidebar_position: 24
 ### I. Teacher’s Topic 
 ![Topic của GV](/img/giao-vien/topic/topic-cua-GV.png)  
 __Functions:__ 
-1. <img src="/img/giao-vien/topic/chon-mon.png" alt="Select Subject" width="100" />: Search topic list by subject
+1. <img src="/img/chung/chon-mon.png" alt="Select Subject" width="100" />: Search topic list by subject
 2. <img src="/img/giao-vien/topic/chon-khoi.png" alt="Select Grade" width="80" />: Search topic list by grade
 3. <img src="/img/chung/lam-moi.png" alt="Refresh" width="80" />: Reload the list
 4. <img src="/img/chung/tim-kiem.png" alt="Search" width="150" />: Search topics by topic code and name

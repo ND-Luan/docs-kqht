@@ -7,16 +7,17 @@ sidebar_position: 1
 # NHẬN XÉT THÁNG
 ### I. Nhận xét tháng của giáo viên  
 ![Nhận xét tháng của giáo viên](/img/giao-vien/nhan-xet-thang/nhan-xet-thang.png)
-
 __Chức năng:__  
-1. Lấy kết quả edubot: Lấy dữ liệu từ bên EduBot hiển thị trên giao diện 
-2. Tìm kiếm: Tìm kiếm học sinh theo mã học sinh và họ tên 
-3. Lưu tạm: Lưu lại đánh giá tháng chủ đề của lớp 
-4. Gửi Ban Giám Hiệu: Lưu lại và gửi đánh giá tháng chủ đề của lớp đó cho ban giám 
+1. <img src="/img/chung/chon-lop.png" alt="Chọn lớp" width="160" />: Chọn lớp
+2. <img src="/img/giao-vien/nhan-xet-thang/chon-thang-chu-de.png" alt="Chọn tháng chủ đề" width="250" />: Chọn tháng chủ đề
+3. <img src="/img/giao-vien/nhan-xet-thang/tim-kiem.png" alt="Chọn tháng chủ đề" width="80" />: Tìm kiếm danh sách theo lớp và tháng chủ đề
+4. Lưu tạm: Lưu lại đánh giá tháng chủ đề của lớp 
+5. Gửi Ban Giám Hiệu: Lưu lại và gửi đánh giá tháng chủ đề của lớp đó cho ban giám 
 hiệu  
+6. <img src="/img/giao-vien/nhan-xet-thang/them.png" alt="Chọn tháng chủ đề" width="35" />
+7. <img src="/img/chung/tim-kiem.png" alt="Chọn lớp" width="160" />: Tìm kiếm học sinh theo mã học sinh và họ tên 
 
-__Mô tả:__ Giáo viên dùng để nhận xét tháng, đánh giá mục tiêu và lưu tạm, gửi ban giám 
-hiệu qua cho Ban Giám Hiệu 
+__Mô tả:__ Giáo viên dùng để nhận xét tháng, đánh giá mục tiêu và lưu tạm, gửi ban giám hiệu qua cho Ban Giám Hiệu 
 
 
 ###  II. Đánh giá mục tiêu của học sinh  
@@ -28,4 +29,6 @@ __Chức năng:__
 4. Đóng: Đóng cửa sổ mục tiêu  
 
 __Mô tả:__ Giáo viên dùng để đánh giá và nhận xét mục tiêu cho học sinh  
+
+###  III. Xem lĩnh vực của học sinh
 ![Xem lĩnh vực của học sinh](/img/giao-vien/nhan-xet-thang/xem-linh-vuc-cua-hs.png) 
