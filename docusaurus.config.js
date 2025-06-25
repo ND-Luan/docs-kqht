@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'IOT Software VN', // Usually your GitHub org/user name.
+  organizationName: 'ND-Luan', // Usually your GitHub org/user name.
   projectName: 'docs-kqht.github.io', // Usually your repo name.
   deploymentBranch: 'build',
   trailingSlash: false,
