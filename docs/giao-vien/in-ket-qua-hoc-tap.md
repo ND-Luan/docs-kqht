@@ -6,9 +6,12 @@ sidebar_position: 7
 
 # IN KẾT QUẢ HỌC TẬP
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
+=======
+>>>>>>> parent of 9160ab5 (5th commit)
 
  
  
@@ -22,4 +25,7 @@ __Chức năng:__
 
 __Mô tả:__ Giáo viên cập nhật tình trạng học sinh từ bên phần mềm quản lý học sinh sang 
 phần mềm kết quả học tập
+<<<<<<< HEAD
+>>>>>>> parent of 9160ab5 (5th commit)
+=======
 >>>>>>> parent of 9160ab5 (5th commit)
