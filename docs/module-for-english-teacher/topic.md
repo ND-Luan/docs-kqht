@@ -9,14 +9,14 @@ sidebar_position: 24
 ### I. Teacher’s Topic 
 ![Topic của GV](/img/giao-vien/topic/topic-cua-GV.png)  
 __Functions:__ 
-1. <img src="/img/chung/chon-mon.png" alt="Select Subject" width="100" />: Search topic list by subject
-2. <img src="/img/giao-vien/topic/chon-khoi.png" alt="Select Grade" width="80" />: Search topic list by grade
-3. <img src="/img/chung/lam-moi.png" alt="Refresh" width="80" />: Reload the list
-4. <img src="/img/chung/tim-kiem.png" alt="Search" width="150" />: Search topics by topic code and name
-5. <img src="/img/chung/them.png" alt="Add" width="30" />: Open the Add Topic window
-6. <img src="/img/chung/cap-nhat.png" alt="Update" width="30" />: Open the Update Topic window
-7. <img src="/img/chung/xac-nhan.png" alt="Confirm" width="30" />: Show confirmation to delete topic
-8. <img src="/img/giao-vien/topic/muc-tieu.png" alt="Objective" width="30" />: View the objectives of the topic
+1. <img src="/docs-kqht/img/chung/chon-mon.png" alt="Select Subject" width="100" />: Search topic list by subject
+2. <img src="/docs-kqht/img/giao-vien/topic/chon-khoi.png" alt="Select Grade" width="80" />: Search topic list by grade
+3. <img src="/docs-kqht/img/chung/lam-moi.png" alt="Refresh" width="80" />: Reload the list
+4. <img src="/docs-kqht/img/chung/tim-kiem.png" alt="Search" width="150" />: Search topics by topic code and name
+5. <img src="/docs-kqht/img/chung/them.png" alt="Add" width="30" />: Open the Add Topic window
+6. <img src="/docs-kqht/img/chung/cap-nhat.png" alt="Update" width="30" />: Open the Update Topic window
+7. <img src="/docs-kqht/img/chung/xac-nhan.png" alt="Confirm" width="30" />: Show confirmation to delete topic
+8. <img src="/docs-kqht/img/giao-vien/topic/muc-tieu.png" alt="Objective" width="30" />: View the objectives of the topic
 
 __Description:__ Teachers can add, update and delete topics 
 
@@ -24,7 +24,7 @@ __Description:__ Teachers can add, update and delete topics
 ![Thêm mới Topic](/img/giao-vien/topic/them-moi.png)  
 
 __Functions:__  
-1. <img src="/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the add topic window 
+1. <img src="/docs-kqht/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the add topic window 
 2. Mã topic: Enter the topic code  
 3. Tên Topic: Enter the topic name  
 4. Thời gian bắt đầu: Select the time start 
@@ -37,7 +37,7 @@ __Description:__ Teachers can add topics
 ### III. The update Topic window 
 ![Cập nhật Topic](/img/giao-vien/topic/cap-nhat-topic.png)  
 __Functions:__ 
-1. <img src="/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the update topic window  
+1. <img src="/docs-kqht/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the update topic window  
 2. Số thứ tự: Enter order number
 3. Mã topic: Enter the topic code  
 4. Tên Topic: Enter the topic name 
@@ -51,19 +51,19 @@ __Description:__ Teachers can update topics
 ### IV. Confirm topic deletion  
 ![Xóa Topic](/img/giao-vien/topic/xoa.png)  
 __Functions:__
-1. <img src="/img/chung/ok.png" alt="Xóa" width="70" />: Confirm deletion of Topic 
-2. <img src="/img/chung/cancel.png" alt="Đóng" width="70" />: Close to confirm deletion of the topic 
+1. <img src="/docs-kqht/img/chung/ok.png" alt="Xóa" width="70" />: Confirm deletion of Topic 
+2. <img src="/docs-kqht/img/chung/cancel.png" alt="Đóng" width="70" />: Close to confirm deletion of the topic 
 
 __Description:__ Teachers can delete topic 
 
 ### V. Objectives of Topic 
 ![Mục tiêu Topic](/img/giao-vien/topic/muc-tieu-topic.png)  
 __Functions:__ 
-1. <img src="/img/giao-vien/topic/dong-muc-tieu.png" alt="Đóng" width="30" /> : Close watch objective of Topic  
-2. <img src="/img/chung/tim-kiem.png" alt="Tìm kiếm" width="150" />: Search by objective code and objective name 
-3. <img src="/img/chung/them.png" alt="Thêm" width="30" />:  Open the add objective of Topic 
-4. <img src="/img/chung/cap-nhat.png" alt="Cập nhật" width="30" />: Open the update objective of Topic 
-5. <img src="/img/chung/xac-nhan.png" alt="Xác nhận" width="30" />: Display confirmation message to delete objective of Topic
+1. <img src="/docs-kqht/img/giao-vien/topic/dong-muc-tieu.png" alt="Đóng" width="30" /> : Close watch objective of Topic  
+2. <img src="/docs-kqht/img/chung/tim-kiem.png" alt="Tìm kiếm" width="150" />: Search by objective code and objective name 
+3. <img src="/docs-kqht/img/chung/them.png" alt="Thêm" width="30" />:  Open the add objective of Topic 
+4. <img src="/docs-kqht/img/chung/cap-nhat.png" alt="Cập nhật" width="30" />: Open the update objective of Topic 
+5. <img src="/docs-kqht/img/chung/xac-nhan.png" alt="Xác nhận" width="30" />: Display confirmation message to delete objective of Topic
 
 
 __Description:__ Teachers can add, update, and delete objective of Topic  
@@ -71,7 +71,7 @@ __Description:__ Teachers can add, update, and delete objective of Topic
 ### VI. The add objective of Topic 
 ![Thêm mới mục tiêu Topic](/img/giao-vien/topic/them-moi-muc-tieu.png)  
 __Functions:__
-1. <img src="/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the add objective of Topic  
+1. <img src="/docs-kqht/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the add objective of Topic  
 2. Mục tiêu tham khảo: Teachers quickly enter the content below 
 3. Mã mục tiêu: Enter the objective code of Topic 
 4. Tên mục tiêu (VI): Enter the objective name (VI) of Topic 
@@ -87,7 +87,7 @@ __Description:__ Teachers can add objective of Topic
 ### VII. The update objective of Topic  
 ![Cập nhật mục tiêu Topic](/img/giao-vien/topic/cap-nhat-muc-tieu.png)  
 __Functions:__ 
-1. <img src="/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the update objective of Topic 
+1. <img src="/docs-kqht/img/chung/dong.png" alt="Mục tiêu" width="30" />: Close the update objective of Topic 
 2. Số thứ tự: Enter order number
 3. Mã mục tiêu: Enter the objective code of Topic 
 4. Tên mục tiêu (VI): Enter the objective name (VI) of Topic 
@@ -103,7 +103,7 @@ __Description:__ Teachers update objective of Topic
 ### VIII. Confirm the objective deletion of topic 
 ![Xóa mục tiêu Topic](/img/giao-vien/topic/xoa-muc-tieu.png)  
 __Functions:__
-1. <img src="/img/chung/ok.png" alt="Xóa" width="70" />: Confirm objective deletion of Topic  
-2. <img src="/img/chung/cancel.png" alt="Đóng" width="70" />: Close to confirm deletion of the objective topic  
+1. <img src="/docs-kqht/img/chung/ok.png" alt="Xóa" width="70" />: Confirm objective deletion of Topic  
+2. <img src="/docs-kqht/img/chung/cancel.png" alt="Đóng" width="70" />: Close to confirm deletion of the objective topic  
 
 __Description:__ Teachers can delete the objective of the topic 

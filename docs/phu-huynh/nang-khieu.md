@@ -8,7 +8,7 @@ sidebar_position: 17
 
 
 ### I. Năng khiếu
-<img src="/img/phu-huynh/nang-khieu/nang-khieu.png" alt="Năng khiếu" width="70%" />  
+<img src="/docs-kqht/img/phu-huynh/nang-khieu/nang-khieu.png" alt="Năng khiếu" width="70%" />  
 
 __Chức năng:__ 
 1. Vùng chọn các năng khiếu
@@ -18,7 +18,7 @@ __Chức năng:__
 __Mô tả:__ Phụ huynh xem các năng khiếu của học sinh 
 
 ### II. Chi tiết Năng khiếu
-<img src="/img/phu-huynh/nang-khieu/chi-tiet-nang-khieu.png" alt="Đóng" width="30%" />   
+<img src="/docs-kqht/img/phu-huynh/nang-khieu/chi-tiet-nang-khieu.png" alt="Đóng" width="30%" />   
 
 __Mô tả:__ Phụ huynh xem đánh giá của các thầy cô về các mục tiêu bé đạt được của năng 
 khiếu đó 
