@@ -31,11 +31,6 @@ const config = {
   projectName: 'docs-kqht', // Usually your repo name.
   deploymentBranch: 'main',
   trailingSlash: false,
-<<<<<<< HEAD
-  
-=======
-
->>>>>>> binh
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
