@@ -32,6 +32,13 @@ const sidebars = {
         'giao-vien/lich-sinh-hoat',
         'giao-vien/in-ket-qua-hoc-tap',
         'giao-vien/danh-sach-hoc-sinh-lop',
+        'giao-vien/thong-tin-tu-gia-dinh',
+        'giao-vien/bao-cao-muc-tieu-khong-dat',
+        'giao-vien/bao-cao-muc-tieu-TA-KN',
+        'giao-vien/bao-cao-cac-mat-phat-trien-chung-TA',
+        'giao-vien/bao-cao-ti-le-dat-tot',
+        'giao-vien/bao-cao-ti-le-dat-tot-TA-KN',
+        'giao-vien/cau-hinh-nhan-xet'
       ],
     },
     {
@@ -41,6 +48,12 @@ const sidebars = {
         'ban-giam-hieu/duyet-nhan-xet-thang',
         'ban-giam-hieu/duyet-nhan-xet-cac-mon',
         'ban-giam-hieu/xem-lich-sinh-hoat',
+        'ban-giam-hieu/xem-y-kien-phu-huynh',
+        'ban-giam-hieu/bao-cao-muc-tieu-khong-dat',
+        'ban-giam-hieu/bao-cao-muc-tieu-TA-KN',
+        'ban-giam-hieu/bao-cao-cac-mat-phat-trien-chung-TA',
+        'ban-giam-hieu/bao-cao-ti-le-dat-tot',
+        'ban-giam-hieu/bao-cao-ti-le-dat-tot-TA-KN',
       ],
     },
     {
@@ -70,6 +83,8 @@ const sidebars = {
       items: [
         'module-for-english-teacher/english-subject-comments',
         'module-for-english-teacher/topic',
+        'module-for-english-teacher/comment-configuration',
+
       ],
     },
   ],
