@@ -12,7 +12,7 @@ sidebar_position: 21
 __Chức năng:__  
 1. <img src="/docs-kqht/img/quan-tri/phan-cong-giao-vien/chon-khoi.png" alt="Chọn khối" width="140" />: Tìm kiếm theo Khối
 2. <img src="/docs-kqht/img/chung/chon-lop.png" alt="Chọn lớp" width="170" />: Tìm kiếm theo Lớp
-3. <img src="/docs-kqht/img/chung/lam-moi.png" alt="Làm mới" width="7x0" />: Tải lại danh sách
+3. <img src="/docs-kqht/img/chung/lam-moi.png" alt="Làm mới" width="70" />: Tải lại danh sách
 4. <img src="/docs-kqht/img/chung/tim-kiem.png" alt="Tìm kiếm" width="150" />: Tìm kiếm giáo viên theo họ tên giảng viên 
 5. <img src="/docs-kqht/img/chung/them.png" alt="Làm mới" width="30" />: Mở cửa sổ thêm phân công
 6. <img src="/docs-kqht/img/chung/cap-nhat.png" alt="Làm mới" width="30" />: Mở cửa sổ cập nhật phân công 
