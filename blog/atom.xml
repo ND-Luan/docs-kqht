@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nd-luan.github.io/docs-kqht/blog</id>
-    <title>My Site Blog</title>
+    <title>Kết quả học tập Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nd-luan.github.io/docs-kqht/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://nd-luan.github.io/docs-kqht/img/favicon.ico</icon>
+    <subtitle>Kết quả học tập Blog</subtitle>
+    <icon>https://nd-luan.github.io/docs-kqht/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://nd-luan.github.io/docs-kqht/blog/welcome</id>
