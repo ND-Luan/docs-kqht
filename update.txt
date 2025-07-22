@@ -28,5 +28,6 @@ Phân hệ cho phụ huynh
 • Thay đổi ảnh English Report, chi tiết English
 Report
 • Thêm chức năng Sức khỏe
+1.4 Thay đổi từ PDF sang Website 
 
 File Cũ: "https://file.lhbs.vn/kqht/FileData/58009B6D8A8F48888343E6DD5612C2D6"
