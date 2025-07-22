@@ -1,0 +1,32 @@
+1 THÔNG TIN CÁC BÊN THAM GIA
+Người thực hiện: Ngô Đình Luân – Nhân viên kỹ thuật
+Người đánh giá: Lê Chân Thiện Tâm - Giám đốc Kỹ Thuật
+Người phê duyệt: Công ty TNHH IoT Software Việt Nam
+Ngày thực hiện 09/09/2024
+Phiên bản 1.3
+Tài liệu hướng dẫn sử dụng Sổ Liên Lạc Mầm Non LHBS
+Phiên bản 1.3 3/56
+2 LỊCH SỬ CẬP NHẬT THAY ĐỔI
+Phiên bản Thay đổi
+1.1 Phân hệ dành cho giáo viên
+• Thêm chức năng Phiếu Bé Ngoan
+Phân hệ dành cho phụ huynh
+• Thêm chức năng Phiếu bé ngoan
+• Sửa chức năng Lịch Sinh Hoạt
+• Sửa ảnh Trang chủ của phụ huynh
+1.2 Phân hệ cho giáo viên
+• Thêm chức năng Lịch sinh hoạt
+Phân hệ cho phụ huynh
+• Bổ sung cho chức năng Lịch sinh hoạt
+1.3 Phân hệ cho giáo viên
+• Thêm in kết quả học tập
+• Thêm danh sách học sinh lớp
+Phân hệ cho quản trị
+• Thêm danh sách chữ ký
+Phân hệ cho phụ huynh
+• Thay đổi ảnh Trang chủ
+• Thay đổi ảnh English Report, chi tiết English
+Report
+• Thêm chức năng Sức khỏe
+
+File Cũ: "https://file.lhbs.vn/kqht/FileData/58009B6D8A8F48888343E6DD5612C2D6"

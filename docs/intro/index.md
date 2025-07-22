@@ -7,4 +7,4 @@ Dành cho Ban Giám Hiệu
 Dành cho chuyên viên nghiệp vụ quản lý hệ thống.  
 ### 3. Link Sổ Liên Lạc
 Link Sổ Liên Lạc: https://ketquahoctap.lhbs.vn/  
-Chương trình có thể sử dụng được trên máy tính.  
+Chương trình có thể sử dụng được trên máy tính và điện thoại.  

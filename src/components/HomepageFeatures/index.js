@@ -4,38 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Giáo viên nhập liệu nhanh, tiện lợi',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Giáo viên có thể dễ dàng ghi nhận điểm và nhận xét học sinh mà không cần dùng đến sổ giấy.
+        Việc quản lý học sinh trở nên đơn giản và tiết kiệm thời gian hơn nhiều.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tiết kiệm thời gian cho giáo viên',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Phần mềm giúp giảm bớt việc ghi chép thủ công, tính toán điểm số hay viết nhận xét bằng tay.
+        Giáo viên chỉ cần vài thao tác đơn giản để hoàn tất công việc, từ đó có thêm thời gian cho việc giảng dạy.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Thống kê và báo cáo',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Tạo bảng điểm, biểu đồ kết quả, báo cáo chuyên cần… một cách tự động, hỗ trợ nhà trường trong việc quản lý tổng thể.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
